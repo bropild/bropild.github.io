@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://bropild.github.io/sitemap.html.gz
+Sitemap: https://bropild.github.io/app/sitemap.html.gz
+Sitemap: https://bropild.github.io/assets/sitemap.html.gz
+Sitemap: https://bropild.github.io/css/sitemap.html.gz
+Sitemap: https://bropild.github.io/includes/sitemap.html.gz
+Sitemap: https://bropild.github.io/item/sitemap.html.gz
+Sitemap: https://bropild.github.io/src/sitemap.html.gz
